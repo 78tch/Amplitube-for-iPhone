@@ -45,7 +45,8 @@ AMPが決まると、実は「定番（おすすめ）のCAB」というのが�
 |Clean|Fender® blackface Deluxe Reverb®|1x12"|Fender® blackface Deluxe Reverb® Cabinet|
 |Crunch|Vox® AC30™|2x12"|Vox® AC30™ Cabinet|
 |Metal|Mesa/Boogie® Triple Rectifier® (Lead Channel)|4x12"B, 4x12"T1|Mesa/Boogie® 4x12” Rectifier® Cabinet|
-|British Copper 30 TB|Vox® AC30™ - Copper Panel|2x12"GBV|Vox® AC30™ 2x12" Cabinet|
+|British Copper 30 TB|Vox® AC30™ - Copper Panel|2x12"GBV|Vox® AC30™ 2x12" Cabinet|  
+
 4. AMPの音を調節する  
 次に、AMPのツマミを調節します。  
 BASS、MID、TREBLE、PRESENCEは全て5.0にして、GAINとか、TONEとか、REVERBとかを、弾いたときに心地よい響きになるように、調節します。  
